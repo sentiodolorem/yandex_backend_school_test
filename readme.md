@@ -1,1 +1,1 @@
-#Yandex Backend School 2022 (Summer)
+#Yandex Backend Summer School 2022 (5 PROBLEMS)
